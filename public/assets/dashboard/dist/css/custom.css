@@ -1,0 +1,8 @@
+.tox .tox-statusbar__branding{
+
+    display:none !important;
+
+}
+.tox .tox-notifications-container{
+    display:none !important;
+}
